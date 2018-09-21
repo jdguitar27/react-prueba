@@ -1,0 +1,9 @@
+{
+    "tareas": [
+        {"titulo": "Aprender MongoDB", "descripcion": "Debo ver los vídeos de mongodb", "prioridad": "Muy Alta"},
+        {"titulo": "Aprender Express", "descripcion": "Debo ver los vídeos de express", "prioridad": "Alta"},
+        {"titulo": "Aprender React",   "descripcion": "Debo ver los vídeos de react",   "prioridad": "Media"},
+        {"titulo": "Aprender Node",    "descripcion": "Debo ver los vídeos de node",    "prioridad": "Baja"},
+        {"titulo": "Aprender MERN",    "descripcion": "Debo enlazar los conocimientos aprendidos",    "prioridad": "Muy Alta"}
+    ]
+}

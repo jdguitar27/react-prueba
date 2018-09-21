@@ -1,0 +1,16 @@
+/* ------------------- */
+/* Estilos del header */
+/* ------------------- */
+.bg-darkest{background-color: rgb(37, 37, 37);}
+/* ------------------- */
+/* Estilos del cuerpo  */
+/* ------------------- */
+body
+{
+    background: #403B4A;
+    background: -webkit-linear-gradient(to left, #E7E9BB, #403B4A);
+    background: linear-gradient(to left, #E7E9BB, #403B4A);
+}
+.zoom {transition: transform .5s;}
+
+.zoom:hover {transform: scale(1.05);}
